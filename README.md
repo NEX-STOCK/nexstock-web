@@ -3,22 +3,12 @@
 
 <br/>
 
-<!-- BADGES DE TECNOLOGIAS -->
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-274C77?style=for-the-badge&logo=html5&logoColor=E7ECEF" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-6096BA?style=for-the-badge&logo=css3&logoColor=E7ECEF" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-274C77?style=for-the-badge&logo=javascript&logoColor=E7ECEF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SheetJS_XLSX-6096BA?style=for-the-badge&logo=microsoft-excel&logoColor=E7ECEF" alt="SheetJS" />
-  <img src="https://img.shields.io/badge/LocalStorage-121E2B?style=for-the-badge&logo=google-chrome&logoColor=A3CEF1" alt="LocalStorage" />
-</div>
+
 
 <br/>
 
 ---
 
-## Sobre o Projeto
-
-O **NEXSTOCK** é uma aplicação web completa em arquivo único desenvolvida para facilitar o controle de inventário, notas fiscais e relacionamento com fornecedores. Com interface responsiva e paleta inspirada em tons de azul corporativo, o sistema funciona diretamente no navegador sem necessidade de servidor externo.
 
 ---
 
