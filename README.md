@@ -1,9 +1,6 @@
-# nexstock-web
-Web-based inventory management system (NEXSTOCK) featuring product tracking, invoice management, barcode lookup, supplier WhatsApp integration, and Excel (.xlsx) export using HTML, CSS, JavaScript, and LocalStorage.
-
-<!-- BANNER ANIMADO NO TOPO (ONDA EM MOVIMENTO) -->
+<!-- BANNER PRINCIPAL COM A IMAGEM DO PROJETO -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121E2B,50:274C77,100:6096BA&height=220&section=header&text=NEXSTOCK&fontSize=60&fontColor=E7ECEF&animation=fadeIn&fontAlignY=38&desc=Gestão%20de%20Estoque%20Simples%20e%20Organizada&descAlignY=62&descSize=20" alt="Banner NEXSTOCK" />
+  <img width="100%" src="./assets/banner-nexstock.jpg" alt="NEXSTOCK - Solução de Gestão e Controle de Estoque para Pequenos Negócios" />
 </div>
 
 <!-- TEXTO COM EFEITO DE DIGITAÇÃO -->
