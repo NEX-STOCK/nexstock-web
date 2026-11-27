@@ -1,7 +1,4 @@
-<!-- BANNER PRINCIPAL COM A IMAGEM DO PROJETO -->
-<div align="center">
-  <img width="100%" src="./banner-nexstock.jpeg" alt="NEXSTOCK - Solução de Gestão e Controle de Estoque para Pequenos Negócios" />
-</div>
+
 
 
 <br/>
