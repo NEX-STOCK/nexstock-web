@@ -2,12 +2,7 @@
 <div align="center">
   <img width="100%" src="./banner-nexstock.jpeg" alt="NEXSTOCK - Solução de Gestão e Controle de Estoque para Pequenos Negócios" />
 </div>
-<!-- TEXTO COM EFEITO DE DIGITAÇÃO -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6096BA&center=true&vCenter=true&width=650&lines=Controle+de+Estoque+Inteligente+na+Web;Alertas+de+Nível+Crítico+e+Relatórios+XLSX;Notas+Fiscais+com+OCR+e+Pedidos+via+WhatsApp;Modo+Claro+e+Escuro+com+Persistência+Local" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <br/>
 
