@@ -1,8 +1,7 @@
 <!-- BANNER PRINCIPAL COM A IMAGEM DO PROJETO -->
 <div align="center">
-  <img width="100%" src="./assets/banner-nexstock.jpg" alt="NEXSTOCK - Solução de Gestão e Controle de Estoque para Pequenos Negócios" />
+  <img width="100%" src="./banner-nexstock.jpg" alt="NEXSTOCK - Solução de Gestão e Controle de Estoque para Pequenos Negócios" />
 </div>
-
 <!-- TEXTO COM EFEITO DE DIGITAÇÃO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
